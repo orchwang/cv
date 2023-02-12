@@ -10,7 +10,7 @@ orchwang@gmail.com
 
 ## Publications
 
-* [중국 3대 C2C 오픈마켓의 온라인 쇼핑성과에 관한 비교연구] (https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02510554)
+* [중국 3대 C2C 오픈마켓의 온라인 쇼핑성과에 관한 비교연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02510554)
 
 ## Experiences
 
